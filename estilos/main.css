@@ -132,6 +132,10 @@ footer{
   width: 60%;;
 }
 
-.navbar{
-  height: 100%;
+.navbar-brand{
+  font-size: 2rem;
+}
+
+.nav-item{
+  font-size: 2rem;
 }
